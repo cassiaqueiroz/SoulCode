@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>
+        Top 5 - Séries
+    </title>
+    <style>
+        body{background-color: rgba(940, 550, 90);}
+    </style>
+</head>
+<body>
+<h1>Paquita Salas</h1>
+<img src="../Imagens/paquita.jpg" alt="Imagem da série Paquita Salas" style="height: 300px;">
+<p>Paquita Salas é uma comédia espanhola que conta as aventuras de uma agente de atrizes e atores tentando se atualizar
+    e não falir. <br> Episódio em destaque: "B-Fashion".</p>
+<h2>Estoy Vivo</h2>
+<p>Estoy Vivo é um drama espanhol que conta a história de um policial que morre, volta à vida em outro corpo e tenta
+    recuperar sua família. <br> (Não disponível em português). </p>
+<img src="../Imagens/vivo.png" alt="Imagem da série Estoy Vivo" style="height: 250px;">
+<h3>Anne With an E</h3>
+<img src="../Imagens/anne.webp" alt="Imagem da série Anne With an E" style="height: 200px;">
+<p>Anne with an E é um drama canadense com uma órfã adotada por engano que luta pra encontrar seu lugar ao sol. <br> Episódio em destaque: "El Secreto".</p>
+<h4>River</h4>
+<img src="../Imagens/river.webp" alt="Imagem da série River" style="height: 150px;">
+<p>River é um drama britânico com um detetive atormentado por alucinações enquanto investiga crimes em Londres.</p>
+<h5>Chapolim Colorado <br> Episódio em destaque: "El Secreto".</h5>
+<img src="../Imagens/chapo.jpeg" alt="Imagem da série Chapolim Colorado" style="height: 100px;">
+<p>Chapolim é uma comédia mexicana com as aventuras de um super-herói atrapalhado que sempre consegue salvar o mundo no
+    final. <br> Episódio em destaque: "El Secreto".</p>
+</body>
+<footer>
+    <h6>Cássia Queiroz</h6>
+    <a href="https://www.linkedin.com/in/cassia-queiroz/" target="_blank">Clique aqui para visitar meu LinkedIn</a><br>
+</footer>
+</html>
