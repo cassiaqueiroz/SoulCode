@@ -9,10 +9,12 @@ body {
     background-position: center center;
     opacity: 0.9;
 }
+
 img {
   display: block;
   margin: 0 auto;
-  height: 250px;
+  width: auto;
+  height: 450px;
 }
 
 ul {
@@ -57,7 +59,7 @@ h1, h2{
     padding-top: 25px;
     padding-bottom: 25px;
     border-radius: 7px;
-        border: 2px solid black;
+    border: 2px solid black;
 
 
 
