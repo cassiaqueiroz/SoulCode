@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="pt-br" xmlns="http://www.w3.org/1999/html">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cadastro/Login Mestre Pokémon</title>
+    <link href="pkstyle.css" rel="stylesheet" type="text/css">
+
+</head>
+
+<body>
+
+<audio controls autoplay muted>
+    <source src="http://soundfxcenter.com/music/television-theme-songs/8d82b5_Pokemon_Theme_Song.mp3" type="audio/mpeg">
+    Your browser does not support the audio element.
+</audio>
+
+<ul>
+    <li><a href="pkindex.htm">Cadastro/Login</a></li>
+    <li><a href="pkform.htm">Cadastre Pokémons</a></li>
+</ul>
+<br>
+
+    <h1> Cadastro </h1>
+
+    <form><br><br>
+        <label for="nome"> Nome:</label><br>
+        <input type="text" name="nome" id="nome" placeholder="Digite seu nome"><br><br>
+
+        <label for="id"> ID Mestre: </label><br>
+        <input type="text" name="id" id="id" placeholder="Digite seu ID"><br><br>
+
+        <label for="region">Região de Atuação:</label><br><br>
+        <select name="regiao" id="region">
+            <option value="select">Selecione...</option>
+            <option value="KT">Kanto</option>
+            <option value="JT">Johto</option>
+            <option value="HN">Hoenn</option>
+            <option value="SN">Sinnoh</option>
+            <option value="UV">Unova</option>
+            <option value="KL">Kalos</option>
+        </select><br><br>
+
+        <input type="button" value="Cadastrar" class="button1"><br><br><br>
+
+    </form><br><br><br>
+
+    <h1> Login </h1>
+
+    <form><br><br>
+        <label for="idm"> ID Mestre: </label><br>
+        <input type="text" name="id" id="idm" placeholder="Digite seu ID"><br><br>
+
+        <label for="senha">Senha</label><br>
+        <input type="password" name="senha" id="senha" placeholder="Digite sua senha"><br><br>
+
+
+        <input type="button" value="Login" class="button1"><br><br><br>
+
+    </form>
+
+
+
+    <footer class="footer">
+        <br>
+        <p style="color: black; background-color: white; opacity: 0.9;"><b>Cássia Queiroz</b></p>
+        <a href="https://www.linkedin.com/in/cassia-queiroz/" target="_blank"> <img
+                src="https://cdn0.iconfinder.com/data/icons/yooicons_set01_socialbookmarks/512/social_linkedin_button_blue.png"
+                alt="Imagem do Ícone do LinkedIn" style="height: 30px;"></a><br><br>
+    </footer>
+
+</body>
+</html>
