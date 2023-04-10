@@ -11,8 +11,19 @@ body {
 }
 
 .logo{
-   text-align: left;
+   text-align: center;
    z-index:1;
+   leftt: 500px;
+   width: 100%;
+   padding: 20px;
+   display: inline-block;
+   margin-left: -27%;
+
+
+
+
+
+
 }
 
 ul {
@@ -24,11 +35,10 @@ ul {
    width: -100%;
    position: absolute;
    top: 50px;
-   right: 50px;
+   right: 320px;
    list-style-type: none;
-   margin: 0px;
+   margin: 10px;
    z-index:2;
-   display: flex;
 
 
 }
